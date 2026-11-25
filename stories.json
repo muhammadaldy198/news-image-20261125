@@ -1,0 +1,938 @@
+{
+ "also_on": [
+  [
+   "13",
+   "US confidence 103.3, highest since Jan 2025",
+   "AM",
+   "Conf. Board"
+  ],
+  [
+   "14",
+   "Nasdaq -1.48%; Nvidia -5.86% after Monday's +31% (Tue)",
+   "AM",
+   "WSJ"
+  ],
+  [
+   "15",
+   "Gold $3,561.90, -2.45% on the COMEX settle (Tue)",
+   "WD",
+   "COMEX"
+  ],
+  [
+   "16",
+   "Bitcoin falls below $60,000 (Tue)",
+   "WD",
+   "CoinDesk"
+  ],
+  [
+   "17",
+   "WTI $82.05, +2.35%; Brent Jan $91.40 (Tue)",
+   "WD",
+   "Reuters"
+  ],
+  [
+   "18",
+   "Copa América 2028 in US, 16 teams (Tue)",
+   "AM",
+   "CONMEBOL"
+  ],
+  [
+   "19",
+   "T20I: England beat Australia, Donald 85 off 32 (Tue)",
+   "OC",
+   "ESPN"
+  ],
+  [
+   "20",
+   "Shanghai pledges loyalty to Beijing (Tue)",
+   "AS",
+   "Reuters"
+  ],
+  [
+   "21",
+   "Femicide worst in Africa: 2.9 per 100,000 (UN)",
+   "AF",
+   "UN"
+  ],
+  [
+   "22",
+   "16 Days of Activism opens today, runs to 10 December",
+   "WD",
+   "UN"
+  ],
+  [
+   "23",
+   "EU housing ministers meet in Brussels today",
+   "EU",
+   "Consilium"
+  ],
+  [
+   "24",
+   "Dell raises FY2027 guidance to $202B (Tue)",
+   "AM",
+   "SEC filing"
+  ],
+  [
+   "25",
+   "Analog Devices -17% on a weak outlook (Tue close)",
+   "AM",
+   "ADI"
+  ],
+  [
+   "26",
+   "Insmed +14.13% on the Sanofi deal (Tue close)",
+   "AM",
+   "Insmed"
+  ],
+  [
+   "27",
+   "Czechs sweep Canada 2–0, first semi since 2014",
+   "EU",
+   "Davis Cup"
+  ],
+  [
+   "28",
+   "Italy face South Korea in Davis Cup QF (tonight)",
+   "EU",
+   "Davis Cup"
+  ],
+  [
+   "29",
+   "WHO evacuates staff from Akwe, Ituri (Tue)",
+   "AF",
+   "WHO"
+  ],
+  [
+   "30",
+   "Ebola: 11,613 cases, 5,678 deaths (UN, Tue)",
+   "AF",
+   "UN"
+  ],
+  [
+   "33",
+   "NATO vows space defence over Russian satellite reports",
+   "EU",
+   "NATO"
+  ],
+  [
+   "34",
+   "CIA and spy chief's office hit by cyberattack",
+   "AM",
+   "CNN"
+  ],
+  [
+   "35",
+   "Huawei guilty on 10 of 12 counts (Tue)",
+   "AM",
+   "Reuters"
+  ],
+  [
+   "36",
+   "Dutch climate targets stay binding (Tue)",
+   "EU",
+   "Hague court"
+  ],
+  [
+   "37",
+   "Miss Puerto Rico wins Miss Universe",
+   "WD",
+   "Miss Universe"
+  ],
+  [
+   "38",
+   "Swimmer crosses Hormuz Strait, 15 km, to flag war's toll",
+   "WD",
+   "AP"
+  ],
+  [
+   "39",
+   "Kyiv seeks €115B foreign aid for 2027",
+   "EU",
+   "Kyiv Independent"
+  ],
+  [
+   "40",
+   "Seoul education minister quits in exam scandal",
+   "AS",
+   "Yonhap"
+  ],
+  [
+   "41",
+   "Magnitude 5.6 quake hits eastern Nepal near Tibet (Tue)",
+   "AS",
+   "USGS"
+  ],
+  [
+   "42",
+   "AIDS deaths fall to 570,000, lowest in 20+ years",
+   "WD",
+   "UNAIDS"
+  ],
+  [
+   "43",
+   "Bus–truck crash in Ras Al Khaimah kills 13 (Tue)",
+   "ME",
+   "AP"
+  ],
+  [
+   "44",
+   "Two tankers hit mines in the Strait of Hormuz",
+   "ME",
+   "IRGC"
+  ],
+  [
+   "45",
+   "Nikkei -2.76% as AI sell-off spreads in Asia (Tue)",
+   "AS",
+   "Reuters"
+  ],
+  [
+   "46",
+   "Ábrego García self-deports to Spain after a 2-year fight",
+   "AM",
+   "AP"
+  ],
+  [
+   "47",
+   "Democrats win a House majority of at least 259 seats",
+   "AM",
+   "AP"
+  ],
+  [
+   "48",
+   "Spain heads to a snap election",
+   "EU",
+   "Reuters"
+  ],
+  [
+   "49",
+   "Pentagon criticises Canada's military spending",
+   "AM",
+   "Reuters"
+  ],
+  [
+   "50",
+   "Zambia indicts opposition leader for treason",
+   "AF",
+   "Reuters"
+  ],
+  [
+   "51",
+   "Dozens trapped in Indonesian mine, rescue on",
+   "AS",
+   "Reuters"
+  ],
+  [
+   "52",
+   "Drone attacks on Khartoum condemned (Tue)",
+   "AF",
+   "Reuters"
+  ],
+  [
+   "53",
+   "Iran flogs singer 74 times over unveiled concert",
+   "ME",
+   "Reuters"
+  ],
+  [
+   "54",
+   "DR Congo military aircraft missing (Tue)",
+   "AF",
+   "Reuters"
+  ],
+  [
+   "55",
+   "Russian jets enter South Korea air defence zone",
+   "AS",
+   "Reuters"
+  ],
+  [
+   "56",
+   "Five killed as a Turkish military helicopter crashes",
+   "EU",
+   "Reuters"
+  ],
+  [
+   "57",
+   "US Army to detonate five tons of explosives in Iowa today",
+   "AM",
+   "AP"
+  ],
+  [
+   "58",
+   "Two die, one hurt in a US university shooting",
+   "AM",
+   "AP"
+  ],
+  [
+   "59",
+   "Shein agrees to pay $100M to settle US lawsuits",
+   "AM",
+   "Reuters"
+  ],
+  [
+   "60",
+   "SoftBank to invest $2B in Intel",
+   "AS",
+   "Reuters"
+  ],
+  [
+   "61",
+   "Inkling 2 Mini: free 26.4B open model released",
+   "AM",
+   "T. Machines"
+  ],
+  [
+   "62",
+   "Google drops homepage search button for Gemini",
+   "AM",
+   "Google"
+  ],
+  [
+   "63",
+   "Tencent releases Hy4 weights, 1M-token context",
+   "AS",
+   "Tencent"
+  ],
+  [
+   "64",
+   "Real Madrid beat PSV 5–1, Mbappé twice (Tue)",
+   "EU",
+   "Reuters"
+  ],
+  [
+   "65",
+   "Arsenal 1–1 Dortmund; Gyökeres stunner (Tue)",
+   "EU",
+   "Reuters"
+  ],
+  [
+   "66",
+   "Cherki saves Man City in 2–2 Napoli draw (Tue)",
+   "EU",
+   "Reuters"
+  ],
+  [
+   "67",
+   "Galatasaray edge Aston Villa 1–0 (Tue)",
+   "EU",
+   "Reuters"
+  ],
+  [
+   "68",
+   "Leipzig beat Lens 3–1 in the Champions League (Tue)",
+   "EU",
+   "Reuters"
+  ],
+  [
+   "69",
+   "Okafor double as Leeds thrash Chelsea 4–1 (Tue)",
+   "EU",
+   "Reuters"
+  ],
+  [
+   "70",
+   "Leclerc takes blame for Las Vegas clash (Tue)",
+   "AM",
+   "Ferrari"
+  ],
+  [
+   "71",
+   "Venezuela reveals $237.5B in public debt",
+   "AM",
+   "Caracas"
+  ],
+  [
+   "72",
+   "Brent crude down 21% in November, at $87.49",
+   "WD",
+   "Reuters"
+  ],
+  [
+   "73",
+   "Landmine toll at five-year high (Tue)",
+   "WD",
+   "UN"
+  ],
+  [
+   "74",
+   "Russian records put war dead at 720,000 (CLAIM)",
+   "EU",
+   "Inquiry"
+  ],
+  [
+   "75",
+   "DR Congo rebels call off advance on Bunia (Tue)",
+   "AF",
+   "Reuters"
+  ],
+  [
+   "76",
+   "Trump warns Iran of 'very traumatic' outcome",
+   "AM",
+   "AP"
+  ],
+  [
+   "77",
+   "Trump meets NATO chief Rutte today",
+   "AM",
+   "White House"
+  ],
+  [
+   "78",
+   "flydubai resumes Tel Aviv flights (Tue)",
+   "ME",
+   "flydubai"
+  ],
+  [
+   "79",
+   "Bangladesh launches a mass typhoid vaccination drive",
+   "AS",
+   "Dhaka"
+  ],
+  [
+   "80",
+   "Anthropic below $83 IPO price, at $81.90 (Tue)",
+   "AM",
+   "Upstox"
+  ],
+  [
+   "81",
+   "Two arrested after break-in at William's home",
+   "EU",
+   "Met Police"
+  ],
+  [
+   "82",
+   "Ex-Indian lawmaker Revanna sentenced to life for rape",
+   "AS",
+   "AP"
+  ],
+  [
+   "83",
+   "Thai–Cambodia border fighting on hold after a truce",
+   "AS",
+   "Reuters"
+  ]
+ ],
+ "cpi": {
+  "deck": "CPI 4.9%, highest since Oct 2023. Rents +0.4% in the month.",
+  "headline": "Australia CPI 4.9% — hottest since Oct 2023",
+  "num": 3,
+  "place": "CANBERRA",
+  "section": "PRICES",
+  "source": "ABS",
+  "tag": "REPORTED"
+ },
+ "date": "Wednesday, 25 November 2026",
+ "date_check_left": "LEFT OUT (earlier days): Wales beat All Blacks 35–28 (Sat 14 Nov) · Sanofi–Insmed $41B deal (Tue 24) · Chen Jining purge (Tue 24) · UK 5,258 heat deaths (Tue 24) · Cikande 26 killed (Tue 24) · Zaporizhzhia 44 wounded (Tue night) · COP31 ends with no deal (Sun 22).",
+ "date_check_right": "NOT YET: US GDP + PCE data, 20:30 WIB · Bank of Korea rate decision, Thu 26 Nov · Section 301 tariff findings · EU–Balkan declaration.  CORRECTED: refinery strikes are monitoring-channel reports, not officially confirmed.",
+ "deck": "Shenzhou-24 docks with the first Pakistani in orbit  ·  Dow closes above 50,000  ·  Two Russian refineries ablaze overnight",
+ "footer_bold": "Every story above happened or was first reported on Wednesday 25 November 2026 (any timezone).",
+ "footer_sources": "Sources: Reuters · AP · AFP · Xinhua · CMSA · ABS · UNODC / UN Women · SEC filing · Kyiv Independent · NBA · CNN · CAS — Scenes are drawn illustrations, not photographs.",
+ "heroes": [
+  {
+   "banner": "FIRST PAKISTANI IN ORBIT",
+   "deck": "Lifts off 07:18 WIB, docks 10:56 WIB. Tang Hongbo · Wu Yi · Zeeshan Ali, first foreigner on Tiangong.",
+   "headline": "SHENZHOU-24 DOCKS AT TIANGONG",
+   "num": 1,
+   "place": "JIUQUAN",
+   "section": "LAUNCH PAD",
+   "source": "Xinhua · CMSA",
+   "tag": "REPORTED"
+  },
+  {
+   "banner": "DOW 50,019",
+   "deck": "Tue close 50,019, +0.85%. Nasdaq -1.48% as Nvidia slides 5.86%.",
+   "headline": "DOW TOPS 50,000",
+   "num": 2,
+   "place": "NEW YORK",
+   "section": "MARKETS",
+   "source": "WSJ · ABS",
+   "tag": "REPORTED"
+  },
+  {
+   "banner": "TWO REFINERIES HIT",
+   "deck": "Overnight strikes set two refineries alight 800 km deep. Governor: 1 killed, 145 drones downed.",
+   "headline": "SYZRAN + KUIBYSHEV ABLAZE",
+   "num": 4,
+   "place": "SAMARA",
+   "section": "AIR WAR",
+   "source": "Kyiv Independent",
+   "tag": "REPORTED"
+  }
+ ],
+ "how_sure": "HOW SURE: REPORTED = 2+ outlets or an official's own word · CLAIM = one side's account, labelled as such · ONGOING = still unfolding.",
+ "kicker": "THE WORLD IN ONE DAY  —  {N} STORIES  ·  7 REGIONS  ·  ALL FROM THIS ONE DAY",
+ "masthead": "THE WORLD",
+ "minis": [
+  {
+   "banner": "PACT SIGNED",
+   "deck": "Canberra is Honiara's main security partner; the 2022 China pact ends.",
+   "headline": "Australia–Solomon sign security pact",
+   "num": 5,
+   "section": "DIPLOMACY",
+   "source": "Reuters",
+   "tag": "REPORTED"
+  },
+  {
+   "banner": "5 AN HOUR",
+   "deck": "UN femicide brief: 5 an hour, 129 a day; only 7% ever report to police.",
+   "headline": "47,000 women killed by partners in 2025",
+   "num": 6,
+   "section": "WORLD",
+   "source": "UNODC · UN Women",
+   "tag": "REPORTED"
+  },
+  {
+   "banner": "$132.3BN",
+   "deck": "Revenue $54.9B, +103%; AI server sales $22.0B (announced Tue).",
+   "headline": "Dell AI backlog hits record $132.3B",
+   "num": 7,
+   "section": "EARNINGS",
+   "source": "SEC filing",
+   "tag": "REPORTED"
+  },
+  {
+   "banner": "36–23",
+   "deck": "Big tech faces fines of 5% of global revenue; users gain a right to sue.",
+   "headline": "Senate passes Digital Duty of Care",
+   "num": 8,
+   "section": "OCEANIA",
+   "source": "ACCAN · Hansard",
+   "tag": "REPORTED"
+  },
+  {
+   "banner": "R$56BN",
+   "deck": "Spending-growth cap cut to 2%; tax breaks trimmed. Effect worth R$56B by 2027.",
+   "headline": "Lula signs Brazil fiscal package",
+   "num": 9,
+   "section": "AMERICAS",
+   "source": "Reuters",
+   "tag": "REPORTED"
+  },
+  {
+   "banner": "17:00 CET",
+   "deck": "Costa and von der Leyen host six Balkan leaders; Serbia absent. Enlargement test.",
+   "headline": "EU–Balkan summit meets tonight",
+   "num": 10,
+   "section": "EU DESK",
+   "source": "Consilium",
+   "tag": "ONGOING"
+  },
+  {
+   "banner": "6 KILLED",
+   "deck": "Three at a Khan Younis police post, three near Netzarim; 1,679 since the ceasefire.",
+   "headline": "Gaza: 6 killed on Tuesday",
+   "num": 11,
+   "section": "MIDDLE EAST",
+   "source": "Reuters",
+   "tag": "REPORTED"
+  },
+  {
+   "banner": "NBA CUP",
+   "deck": "Pistons win without Cade; Tatum drops 41; Flagg's 24 leads Dallas past Denver.",
+   "headline": "Detroit 104–86, Boston 131–116, Dallas 120–101",
+   "num": 12,
+   "section": "THE HARDWOOD",
+   "source": "NBA",
+   "tag": "REPORTED"
+  },
+  {
+   "banner": "30 HELD",
+   "deck": "Failed cash-truck robbery ends in supermarket siege; 5 elderly women freed.",
+   "headline": "Gunmen seize Cartagena supermarket",
+   "num": 31,
+   "section": "LATAM DESK",
+   "source": "AP",
+   "tag": "REPORTED"
+  },
+  {
+   "banner": "CROWN RESTORED",
+   "deck": "CAS overturns the CAF ruling (Tue); the 1–0 extra-time final in January stands.",
+   "headline": "Senegal regain the AFCON crown",
+   "num": 32,
+   "section": "THE PITCH",
+   "source": "AP · CAS",
+   "tag": "REPORTED"
+  }
+ ],
+ "numbers": [
+  [
+   "07:18",
+   "Shenzhou-24 liftoff, WIB"
+  ],
+  [
+   "4.9%",
+   "Australia CPI — hottest since Oct 2023"
+  ],
+  [
+   "50,019",
+   "Dow close — tops 50,000"
+  ],
+  [
+   "259",
+   "Democrats' House majority"
+  ],
+  [
+   "$132.3B",
+   "Dell AI backlog, a record"
+  ],
+  [
+   "47,000",
+   "women killed by partners or family in 2025"
+  ]
+ ],
+ "pins": [
+  [
+   1,
+   100.3,
+   40.9,
+   "JIUQUAN"
+  ],
+  [
+   2,
+   -74.0,
+   40.7,
+   "NEW YORK"
+  ],
+  [
+   3,
+   149.1,
+   -35.3,
+   "CANBERRA"
+  ],
+  [
+   4,
+   48.5,
+   53.2,
+   "SYZRAN"
+  ],
+  [
+   5,
+   160.0,
+   -9.4,
+   "HONIARA"
+  ],
+  [
+   7,
+   -97.7,
+   30.3,
+   "AUSTIN"
+  ],
+  [
+   8,
+   149.1,
+   -35.3,
+   "CANBERRA"
+  ],
+  [
+   9,
+   -47.9,
+   -15.8,
+   "BRASÍLIA"
+  ],
+  [
+   10,
+   4.4,
+   50.8,
+   "BRUSSELS"
+  ],
+  [
+   11,
+   34.5,
+   31.3,
+   "KHAN YOUNIS"
+  ],
+  [
+   12,
+   -81.4,
+   28.5,
+   "ORLANDO"
+  ],
+  [
+   20,
+   121.5,
+   31.2,
+   "SHANGHAI"
+  ],
+  [
+   27,
+   11.3,
+   44.5,
+   "BOLOGNA"
+  ],
+  [
+   31,
+   -75.5,
+   10.4,
+   "CARTAGENA"
+  ],
+  [
+   32,
+   6.6,
+   46.5,
+   "LAUSANNE"
+  ],
+  [
+   33,
+   4.4,
+   50.8,
+   "BRUSSELS"
+  ],
+  [
+   34,
+   -74.0,
+   40.7,
+   "NEW YORK"
+  ],
+  [
+   36,
+   56.5,
+   26.5,
+   "HORMUZ"
+  ],
+  [
+   39,
+   87.5,
+   27.0,
+   "KOSHI"
+  ],
+  [
+   41,
+   55.9,
+   25.8,
+   "RAS AL KHAIMAH"
+  ],
+  [
+   44,
+   56.5,
+   26.5,
+   "HORMUZ"
+  ],
+  [
+   45,
+   139.7,
+   35.7,
+   "TOKYO"
+  ],
+  [
+   46,
+   -3.7,
+   40.4,
+   "MADRID"
+  ],
+  [
+   47,
+   -77.0,
+   38.9,
+   "WASHINGTON"
+  ],
+  [
+   48,
+   -3.7,
+   40.4,
+   "MADRID"
+  ],
+  [
+   49,
+   -75.7,
+   45.4,
+   "OTTAWA"
+  ],
+  [
+   50,
+   28.3,
+   -15.4,
+   "LUSAKA"
+  ],
+  [
+   51,
+   106.8,
+   -6.2,
+   "JAKARTA"
+  ],
+  [
+   52,
+   32.5,
+   15.6,
+   "KHARTOUM"
+  ],
+  [
+   53,
+   50.9,
+   34.6,
+   "QOM"
+  ],
+  [
+   54,
+   28.9,
+   -3.0,
+   "MINEMBWE"
+  ],
+  [
+   55,
+   127.0,
+   37.5,
+   "SEOUL"
+  ],
+  [
+   57,
+   -93.6,
+   41.9,
+   "IOWA"
+  ],
+  [
+   60,
+   139.7,
+   35.7,
+   "TOKYO"
+  ],
+  [
+   61,
+   -122.4,
+   37.8,
+   "SAN FRANCISCO"
+  ],
+  [
+   63,
+   114.1,
+   22.5,
+   "SHENZHEN"
+  ],
+  [
+   65,
+   -3.7,
+   40.4,
+   "MADRID"
+  ],
+  [
+   66,
+   -0.1,
+   51.5,
+   "LONDON"
+  ],
+  [
+   67,
+   -2.2,
+   53.5,
+   "MANCHESTER"
+  ],
+  [
+   68,
+   29.0,
+   41.0,
+   "ISTANBUL"
+  ],
+  [
+   69,
+   12.4,
+   51.3,
+   "LEIPZIG"
+  ],
+  [
+   70,
+   -115.1,
+   36.2,
+   "LAS VEGAS"
+  ],
+  [
+   71,
+   -66.9,
+   10.5,
+   "CARACAS"
+  ],
+  [
+   75,
+   30.2,
+   1.6,
+   "BUNIA"
+  ],
+  [
+   76,
+   -77.0,
+   38.9,
+   "WASHINGTON"
+  ],
+  [
+   77,
+   -77.0,
+   38.9,
+   "WASHINGTON"
+  ],
+  [
+   78,
+   34.8,
+   32.1,
+   "TEL AVIV"
+  ],
+  [
+   79,
+   90.4,
+   23.8,
+   "DHAKA"
+  ]
+ ],
+ "regions": [
+  [
+   "ASIA",
+   12
+  ],
+  [
+   "OCEANIA",
+   4
+  ],
+  [
+   "AMERICAS",
+   26
+  ],
+  [
+   "EUROPE",
+   18
+  ],
+  [
+   "MIDDLE EAST",
+   5
+  ],
+  [
+   "AFRICA",
+   8
+  ],
+  [
+   "WORLD",
+   10
+  ]
+ ],
+ "slug": "news-image-20261125",
+ "ticker": "SHENZHOU-24 DOCKS 10:56 WIB  |  DOW 50,019 +0.85%  |  AU CPI 4.9%  |  DELL BACKLOG $132.3B  |  SENEGAL REGAIN AFCON CROWN  |  CIA HIT BY CYBERATTACK  |  NIKKEI -2.76%",
+ "timeline": [
+  [
+   "00:18",
+   "Shenzhou lifts off"
+  ],
+  [
+   "00:30",
+   "AU CPI 4.9% released"
+  ],
+  [
+   "OVERNIGHT",
+   "Refineries hit"
+  ],
+  [
+   "03:56",
+   "Shenzhou docks"
+  ],
+  [
+   "MORNING",
+   "NBA Cup finals"
+  ],
+  [
+   "16:00 CET",
+   "Italy–Korea Davis Cup"
+  ],
+  [
+   "17:00 CET",
+   "EU–Balkan summit"
+  ]
+ ]
+}
